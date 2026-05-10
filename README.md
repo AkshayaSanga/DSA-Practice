@@ -77,13 +77,11 @@ Daily updates are logged in `progress.md` with:
 - Internship: Tata Insights and Quants (Tata iQ) – GenAI Data Analytics
 - Actively seeking internships and entry-level roles in Software Engineering, Data Analytics, BI, and Web Development
 ---
-
 ---
 
 ## 🌐 Profiles
-- [LeetCode Profile](https://leetcode.com/AkshayaSanga/)
-- [LinkedIn](https://linkedin.com/in/akshayasanga)
+- [LeetCode Profile](https://leetcode.com/u/SangaAkshaya/)
+- [LinkedIn](https://www.linkedin.com/in/akshayasanga/)
 - [GitHub](https://github.com/AkshayaSanga)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/AkshayaSanga?theme=light&font=Source%20Sans%20Pro)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/SangaAkshaya?theme=light&font=Source%20Sans%20Pro)
