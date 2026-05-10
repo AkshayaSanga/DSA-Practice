@@ -25,7 +25,7 @@ with optimized solutions, clean code, and complexity analysis.
 - Solve 2–3 problems daily
 - Master core DSA concepts
 - Improve coding interview skills
-- Build consistency in problem solving
+- Build consistency in coding
 - Prepare for internships & placements
 
 ---
@@ -85,6 +85,20 @@ DSA-Practice/
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/SangaAkshaya?theme=dark&font=Nunito&ext=heatmap" />
+</p>
+
+---
+
+# 🔥 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkshayaSanga&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayaSanga&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AkshayaSanga&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
