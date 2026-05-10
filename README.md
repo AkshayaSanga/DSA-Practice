@@ -4,17 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Structures+%26+Algorithms;LeetCode+%7C+GeeksforGeeks+Practice;Consistency+%2B+Discipline+%3D+Success+🔥;Cracking+Coding+Interviews+🚀" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/AkshayaSanga">
-    <img src="https://img.shields.io/github/followers/AkshayaSanga?label=Followers&style=social" />
-  </a>
-</p>
-
 ---
 
 # 👨‍💻 About This Repository
 
-This repository contains my daily **Data Structures & Algorithms** practice to strengthen problem-solving skills and prepare for coding interviews.
+This repository contains my daily **Data Structures & Algorithms** practice to improve problem-solving skills and prepare for coding interviews.
 
 I regularly solve problems from:
 
@@ -22,17 +16,17 @@ I regularly solve problems from:
 - GeeksforGeeks
 - Coding Platforms
 
-with optimized approaches, clean code, and complexity analysis.
+with optimized solutions, clean code, and complexity analysis.
 
 ---
 
 # 🎯 Goals
 
 - Solve 2–3 problems daily
+- Master core DSA concepts
 - Improve coding interview skills
-- Master DSA patterns
-- Build strong problem-solving ability
-- Maintain consistency in coding
+- Build consistency in problem solving
+- Prepare for internships & placements
 
 ---
 
@@ -83,7 +77,7 @@ DSA-Practice/
 - Sliding Window
 - Greedy Algorithms
 - Dynamic Programming
-- Backtracking
+- Recursion & Backtracking
 
 ---
 
@@ -99,12 +93,10 @@ DSA-Practice/
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkshayaSanga&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayaSanga&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayaSanga&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayaSanga&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
