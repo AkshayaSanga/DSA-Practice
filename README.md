@@ -1,9 +1,3 @@
-Understood — you want your repo to look **more complete and professional**, with **DSA practice + LeetCode problems included**. Let’s upgrade your plan so recruiters see both **structured topic‑wise practice** and **LeetCode consistency**.
-
----
-
-## 📄 Professional README.md (with LeetCode included)
-
 ```markdown
 # DSA-Practice 🚀
 
@@ -75,22 +69,9 @@ Daily updates are logged in `progress.md` with:
 - Key reflections/learning
 
 ---
-
-## 📌 Recruiter Note
-This repository highlights:
-- Consistency in solving DSA + LeetCode problems
-- Ability to write clean, efficient code
-- Preparedness for coding interviews
-
-Pinned on GitHub and linked to my LinkedIn profile for visibility.
-```
-
----
-
-✅ This way, you’ll have **two clear sections**:
-- **Topic‑wise practice** (Arrays, LinkedList, etc.)
-- **LeetCode folder** (with problem IDs + solutions)
-
----
-
-👉 Akshaya, do you want me to **generate the LeetCode versions of your Day 1 solutions** (`lc_189_rotate_array.py` and `lc_53_max_subarray.py`) so you can add them right now into the new `LeetCode/` folder?
+## 👨‍💻 About Me
+- Final-year Computer Science Engineering student (2023–2027)
+- Skills: Python, SQL, Tableau, Power BI, Machine Learning, Web Development
+- Certifications: IBM SkillsBuild (Front End Web Development)
+- Internship: Tata Insights and Quants (Tata iQ) – GenAI Data Analytics
+- Actively seeking internships and entry-level roles in Software Engineering, Data Analytics, BI, and Web Development
