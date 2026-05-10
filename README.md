@@ -79,6 +79,8 @@ Daily updates are logged in `progress.md` with:
 ---
 ---
 
+---
+
 ## 🌐 Profiles
 - [LeetCode Profile](https://leetcode.com/u/SangaAkshaya/)
 - [LinkedIn](https://www.linkedin.com/in/akshayasanga/)
