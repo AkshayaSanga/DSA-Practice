@@ -8,7 +8,7 @@
   <a href="https://github.com/AkshayaSanga">
     <img src="https://img.shields.io/github/followers/AkshayaSanga?label=Followers&style=social" />
   </a>
-  
+
   <a href="https://github.com/AkshayaSanga/DSA-Practice">
     <img src="https://img.shields.io/github/stars/AkshayaSanga/DSA-Practice?style=social" />
   </a>
@@ -91,10 +91,14 @@ DSA-Practice/
 
 ---
 
-# 📈 LeetCode Stats
+# 📈 LeetCode Stats & Streak
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/SangaAkshaya?theme=dark&font=Nunito&ext=heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=SangaAkshaya&theme=dark" />
 </p>
 
 ---
@@ -103,7 +107,7 @@ DSA-Practice/
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkshayaSanga&show_icons=true&theme=tokyonight" />
-  
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayaSanga&layout=compact&theme=tokyonight" />
 </p>
 
