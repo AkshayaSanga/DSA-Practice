@@ -69,9 +69,21 @@ Daily updates are logged in `progress.md` with:
 - Key reflections/learning
 
 ---
+
 ## 👨‍💻 About Me
 - Final-year Computer Science Engineering student (2023–2027)
 - Skills: Python, SQL, Tableau, Power BI, Machine Learning, Web Development
 - Certifications: IBM SkillsBuild (Front End Web Development)
 - Internship: Tata Insights and Quants (Tata iQ) – GenAI Data Analytics
 - Actively seeking internships and entry-level roles in Software Engineering, Data Analytics, BI, and Web Development
+---
+
+---
+
+## 🌐 Profiles
+- [LeetCode Profile](https://leetcode.com/AkshayaSanga/)
+- [LinkedIn](https://linkedin.com/in/akshayasanga)
+- [GitHub](https://github.com/AkshayaSanga)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/AkshayaSanga?theme=light&font=Source%20Sans%20Pro)
+
