@@ -1,32 +1,42 @@
 # DSA-Practice 🚀
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Structures+%26+Algorithms;LeetCode+%7C+GeeksforGeeks+Practice;Consistency+is+the+Key+🔥;Cracking+Coding+Interviews+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Structures+%26+Algorithms;LeetCode+%7C+GeeksforGeeks+Practice;Consistency+%2B+Discipline+%3D+Success+🔥;Cracking+Coding+Interviews+🚀" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/AkshayaSanga">
+    <img src="https://img.shields.io/github/followers/AkshayaSanga?label=Followers&style=social" />
+  </a>
+  
+  <a href="https://github.com/AkshayaSanga/DSA-Practice">
+    <img src="https://img.shields.io/github/stars/AkshayaSanga/DSA-Practice?style=social" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About This Repository
+# 👨‍💻 About This Repository
 
-This repository contains my daily **Data Structures & Algorithms** practice for improving problem-solving skills and preparing for coding interviews at product-based and service-based companies.
+This repository contains my daily **Data Structures & Algorithms** practice to strengthen problem-solving skills and prepare for coding interviews at product-based and service-based companies.
 
-I regularly solve problems from:
+I solve problems regularly from:
 
 - LeetCode
 - GeeksforGeeks
 - Coding Platforms
 
-with optimized approaches, clean code, and complexity analysis.
+with optimized solutions, clean code, and complexity analysis.
 
 ---
 
 # 🎯 Goals
 
 - Solve 2–3 problems daily
+- Improve problem-solving speed
 - Master core DSA concepts
-- Improve coding interview skills
-- Build consistency in problem solving
-- Prepare for internships & placements
+- Prepare for technical interviews
+- Build consistency in coding
 
 ---
 
@@ -46,9 +56,12 @@ DSA-Practice/
 ├── LeetCode/
 │   ├── Arrays/
 │   ├── Strings/
+│   ├── LinkedList/
 │   ├── Trees/
 │   ├── Graphs/
-│   ├── DP/
+│   ├── DynamicProgramming/
+│   ├── Greedy/
+│   ├── SlidingWindow/
 │   └── ...
 │
 ├── GeeksforGeeks/
@@ -74,15 +87,14 @@ DSA-Practice/
 - Sliding Window
 - Greedy Algorithms
 - Dynamic Programming
-- Backtracking
-- Recursion
+- Recursion & Backtracking
 
 ---
 
 # 📈 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/SangaAkshaya?theme=dark&font=Nunito&ext=heatmap" />
 </p>
 
 ---
@@ -90,13 +102,13 @@ DSA-Practice/
 # 🔥 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkshayaSanga&show_icons=true&theme=tokyonight" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayaSanga&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayaSanga&theme=tokyonight" />
 </p>
 
 ---
@@ -108,7 +120,7 @@ I maintain a `progress.md` file to track:
 - Problems solved
 - Approaches used
 - Time & Space complexities
-- Learnings & mistakes
+- Mistakes & learnings
 
 ---
 
@@ -148,16 +160,16 @@ public:
 
 <p align="left">
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/u/SangaAkshaya/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<a href="https://github.com/AkshayaSanga">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/akshayasanga/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -170,7 +182,7 @@ public:
 - Participate in coding contests
 - Add company-wise interview questions
 - Upload optimized solutions
-- Improve contest rating
+- Improve contest ratings
 
 ---
 
