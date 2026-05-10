@@ -1,8 +1,10 @@
-# Progress Log 📈
+## Day 1 (Arrays)
+- Problem: Rotate Array (LeetCode #189)
+  - Approach: Reverse method
+  - Complexity: O(n) time, O(1) space
+  - Reflection: Learned how array reversal can simplify rotation.
 
-## Week 1
-
-### Day 1 (Arrays)
-- **Rotate Array (#189 LeetCode)** → Reverse method, Time: O(n), Space: O(1).
-- **Maximum Subarray (#53 LeetCode)** → Kadane’s Algorithm, Time: O(n).
-- Reflection: Learned how reversing segments can simplify rotation.
+- Problem: Maximum Subarray (LeetCode #53)
+  - Approach: Kadane’s Algorithm
+  - Complexity: O(n) time, O(1) space
+  - Reflection: Reinforced dynamic programming intuition.
