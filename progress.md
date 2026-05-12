@@ -53,3 +53,46 @@
 - Solved: 3 Problems  
 - Topic Focus: Linked Lists  
 - Key Learning: Pointer manipulation, merging techniques, and cycle detection using two-pointer strategy.
+
+Here’s your **Day 3 entry for `progress.md`**, written in the same structured style as your Day 1 and Day 2 logs:
+
+---
+
+## Day 3 (Stacks & Queues)
+
+### ✅ Problem 1: Implement Stack (Custom Design)
+- **Approach:**  
+  - Python list (`append`, `pop`)  
+  - Fixed-size array + pointer (`top` index)  
+- **Time Complexity:** O(1) per push/pop  
+- **Space Complexity:** O(n)  
+- **Reflection:** Practiced stack fundamentals and compared dynamic vs fixed-size implementations.
+
+---
+
+### ✅ Problem 2: Implement Queue using Two Stacks — LeetCode #232
+- **Approach:**  
+  - Naive (transfer all elements for each dequeue, O(n))  
+  - Optimized (transfer only when needed, amortized O(1))  
+- **Time Complexity:** Amortized O(1) for enqueue/dequeue  
+- **Space Complexity:** O(n)  
+- **Reflection:** Learned how amortized analysis makes queue operations efficient.
+
+---
+
+### ✅ Problem 3: Valid Parentheses — LeetCode #20
+- **Approach:**  
+  - Stack only (push opening, pop on closing)  
+  - HashMap + Stack (optimized matching)  
+- **Time Complexity:** O(n)  
+- **Space Complexity:** O(n)  
+- **Reflection:** Reinforced stack usage in parsing problems and bracket matching.
+
+---
+
+### 📌 Summary
+- Solved: 3 Problems  
+- Topic Focus: Stacks & Queues  
+- Key Learning: Amortized queue operations, stack-based parsing, and multiple approaches for implementation.
+
+---
