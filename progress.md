@@ -96,3 +96,45 @@ Here’s your **Day 3 entry for `progress.md`**, written in the same structured 
 - Key Learning: Amortized queue operations, stack-based parsing, and multiple approaches for implementation.
 
 ---
+---
+
+## Day 4 (Searching & Sorting)
+
+### ✅ Problem 1: Binary Search — LeetCode #704
+- **Approach:** Iterative Binary Search (while loop)  
+- **Time Complexity:** O(log n)  
+- **Space Complexity:** O(1)  
+- **Reflection:** Practiced iterative binary search and strengthened recursion/iteration intuition.
+
+---
+
+### ✅ Problem 2: Sort an Array — LeetCode #912
+- **Approach:** Merge Sort (Divide and Conquer)  
+- **Time Complexity:** O(n log n)  
+- **Space Complexity:** O(n)  
+- **Reflection:** Learned the difference between naive O(n²) sorts and optimized O(n log n) merge sort.
+
+---
+
+### ✅ Problem 3: Sort Colors — LeetCode #75
+- **Approach:** Dutch National Flag (three pointers)  
+- **Time Complexity:** O(n)  
+- **Space Complexity:** O(1)  
+- **Reflection:** Practiced in-place sorting using low, mid, and high pointers.
+
+---
+
+### ✅ Problem 4: Search in Rotated Sorted Array — LeetCode #33
+- **Approach:** Modified Binary Search (check sorted half)  
+- **Time Complexity:** O(log n)  
+- **Space Complexity:** O(1)  
+- **Reflection:** Strengthened binary search intuition by handling rotated arrays.
+
+---
+
+### 📌 Summary
+- Solved: 4 Problems  
+- Topic Focus: Searching & Sorting  
+- Key Learning: Binary search variations, naive vs optimized sorting, Dutch National Flag algorithm, and rotation handling in binary search.
+
+---
