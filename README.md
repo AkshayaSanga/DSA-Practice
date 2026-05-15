@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Structures+%26+Algorithms;LeetCode+%7C+GeeksforGeeks+Practice;Consistency+%2B+Discipline+%3D+Success+🔥;Cracking+Coding+Interviews+🚀" />
 </p>
- 
+   
 ---
 
 # 👨‍💻 About This Repository
